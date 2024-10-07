@@ -1,4 +1,4 @@
-package com.reportgenerator.Utils;
+package com.reportgenerator.utils;
 
 
 

@@ -1,6 +1,6 @@
 package com.reportgenerator.csv;
 
-import com.reportgenerator.Utils.ReflectionUtils;
+import com.reportgenerator.utils.ReflectionUtils;
 import com.reportgenerator.exceptions.NoCsvColumnsException;
 
 import java.io.BufferedWriter;
